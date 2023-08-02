@@ -16,6 +16,7 @@ En este curso vemos de todo
 -     creado por el increíble platzi team
 -     incluye ejemplos en windows, linux y mac
 -     disponible para todas las edades**
+      diseñado para aprender a tu ritmo
 
 Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a** [ver el curso.**][def]
 
