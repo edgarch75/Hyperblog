@@ -17,6 +17,7 @@ En este curso vemos de todo
 -     incluye ejemplos en windows, linux y mac
 -     disponible para todas las edades**
       diseñado para aprender a tu ritmo
+      Con un buen entorno del recurso humano
 
 Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a** [ver el curso.**][def]
 
